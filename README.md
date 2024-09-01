@@ -1,10 +1,10 @@
-# Desafio de Lógica - Target Sistemas
+# Exercicios de lógica de programação.
 
-Bem-vindo ao repositório do meu projeto para o desafio de lógica da Target Sistemas! 
+Bem-vindo ao repositório do meu projeto! 
 
 ## Descrição
 
-Este repositório contém a solução para o desafio de lógica básica proposto pela Target Sistemas.  
+Este repositório contém a solução para o desafio de lógica básica.  
 
 ## Tecnologias Utilizadas
 
